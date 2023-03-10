@@ -1,4 +1,77 @@
 @media screen and (max-width:576px){
-    
+    .menu li::after {
+        display: none;
+    }
 
+    .sub-services {
+        display: none;
+        opacity: 0;
+    }
+
+    .menu {
+        display: block;
+        background-image: linear-gradient(45deg, #6A08C6, #DE3DC1);
+        position: absolute;
+        top: 100px;
+        left: 100%;
+        width: 100%;
+        text-align: center;
+        padding: 20px 0px;
+        transition: 0.5s;
+        z-index: 30;
+    }
+
+    .menu li {
+        list-style: none;
+        padding: 20px 20px;
+    }
+
+    .menu li a {
+        font-size: 18px;
+    }
+
+    .menu li a:hover {
+        color: #6A08C6;
+        text-shadow: 2px 7px 5px rgba(0, 0, 0, 0.3),
+            0px -4px 10px rgba(255, 255, 255, 0.3);
+        font-weight: 700;
+    }
+
+    .after-menu {
+        left: 0%;
+    }
+
+    .button {
+        display: block;
+    }
+
+    .logo{
+        height: 60px;
+        width: 60px;
+    }
+
+    .name{
+        font-size: 25px;
+        margin: 0px 10px;
+    }
+
+    .in-second>img{
+        height: 125px;
+    }
+
+    .in-second h1{
+        font-size: 37px;
+    }
+
+    .in-second p {
+        padding: 10px 20px;
+    }
+
+    .btn-1{
+        justify-content: center;
+    }
+
+    .btn-2{
+        justify-content: center;
+    }
 }
