@@ -1,0 +1,46 @@
+@media screen and (min-width:992px) and (max-width:1199px){
+    .logo {
+        height: 60px;
+        width: 60px;
+    }
+
+    .name {
+        font-size: 24px;
+        margin: 0px 10px;
+    }
+
+    .menu li a{
+        font-size: 15px;
+    }
+
+    .col-md-3 {
+        width: 28%;
+    }
+
+    .col-md-9 {
+        width: 72%;
+    }
+
+    .in-second h1 {
+        font-size: 45px;
+        margin: 10px 0px;
+    }
+
+    .first-btn {
+        margin-left: 214px;
+        margin-top: 30px;
+    }
+
+    .second-btn {
+        margin-right: 197px;
+        margin-top: 30px;
+    }
+
+    .btns {
+        font-size: 15px;
+    }
+
+    .menu li {
+        padding: 10px 15px;
+    }
+}

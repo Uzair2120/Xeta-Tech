@@ -1,0 +1,56 @@
+@media screen and (min-width:768px) and (max-width:991px){
+    
+.logo-div{
+    justify-content: center;
+}
+.for-menu{
+    justify-content: center;
+    padding: 0px;
+}
+
+.menu li {
+    padding: 10px 14px;
+}
+
+.quote-btn {
+    top: 260px;
+    right: -60px;
+}
+
+.header {
+    height: 160px;
+}
+
+.number2 {
+    top: -61%;
+}
+
+.in-second h1 {
+    font-size: 41px;
+    margin: 10px 0px;
+}
+
+.in-second p {
+    padding: 0px 60px;
+}
+
+.menu {
+    margin-top: -60px;
+}
+
+.logo {
+    height: 70px;
+    width: 70px;
+}
+
+.menu li a{
+    font-size: 15px;
+}
+
+.in-second>img{
+    height: 130px;
+}
+
+
+
+}
