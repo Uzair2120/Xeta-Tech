@@ -85,4 +85,12 @@
         top: -82%;
     }
 
+
+    #column1 , #column2,#column3,#column4,#column5,#column6,#column7,#column8,#column9,#column10,#column11,#column12{
+        width: 100%;
+    }
+
+    .cols{
+        margin: 20px 15px;
+    }
 }

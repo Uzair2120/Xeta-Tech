@@ -51,6 +51,14 @@
     height: 130px;
 }
 
+#column1 , #column2,#column3,#column4,#column5,#column6,#column7,#column8,#column9,#column10,#column11,#column12{
+    width: 45%;
+}
 
+.cols{
+    margin: 30px 15px;
+    padding: 10px 0px;
+    padding-bottom: 50px;
+}
 
 }

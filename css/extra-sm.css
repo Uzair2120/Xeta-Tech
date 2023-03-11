@@ -1,4 +1,21 @@
 @media screen and (max-width:576px){
+   
+    .header{
+        height: 80px;
+    }
+   
+    .number1{
+        height: 100%;
+    }
+
+    .logo-div{
+        height: 100%;
+    }
+
+    .for-nav{
+        height: 100%;
+    }
+   
     .menu li::after {
         display: none;
     }
@@ -6,6 +23,10 @@
     .sub-services {
         display: none;
         opacity: 0;
+    }
+
+    .button{
+        top: 21px;
     }
 
     .menu {
@@ -82,4 +103,19 @@
     .quote-btn{
         top: 168px;
     }
+
+
+    #column1 , #column2,#column3,#column4,#column5,#column6,#column7,#column8,#column9,#column10,#column11,#column12{
+        width: 90%;
+    }
+
+    .cols{
+        margin: 20px 15px;
+        padding: 10px 0px;
+        padding-bottom: 40px;
+    }
+
+   .cols p{
+    padding: 0px 50px;
+   }
 }
