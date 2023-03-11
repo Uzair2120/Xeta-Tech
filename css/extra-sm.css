@@ -46,17 +46,17 @@
     }
 
     .logo{
-        height: 60px;
-        width: 60px;
+        height: 50px;
+        width: 50px;
     }
 
     .name{
-        font-size: 25px;
+        font-size: 22px;
         margin: 0px 10px;
     }
 
     .in-second>img{
-        height: 125px;
+        height: 115px;
     }
 
     .in-second h1{
@@ -73,5 +73,13 @@
 
     .btn-2{
         justify-content: center;
+    }
+
+    .number2{
+        top: -83%;
+    }
+
+    .quote-btn{
+        top: 168px;
     }
 }
