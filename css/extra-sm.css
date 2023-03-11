@@ -60,6 +60,7 @@
 
     .after-menu {
         left: 0%;
+        top: 80px;
     }
 
     .button {
@@ -117,5 +118,13 @@
 
    .cols p{
     padding: 0px 50px;
+   }
+
+   .head-main2 h1{
+    font-size: 40px;
+   }
+
+   .in-main2{
+    padding-top: 20px;
    }
 }
