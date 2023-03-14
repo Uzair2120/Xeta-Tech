@@ -46,34 +46,34 @@
         display: block;
     }
 
-    .logo{
+    .logo {
         height: 60px;
         width: 60px;
     }
 
-    .name{
+    .name {
         font-size: 25px;
         margin: 0px 10px;
     }
 
-    .btn-1{
+    .btn-1 {
         justify-content: center;
     }
 
-    .btn-2{
+    .btn-2 {
         justify-content: center;
     }
 
-    .name{
+    .name {
         font-size: 25px;
         margin: 0px 10px;
     }
 
-    .in-second>img{
+    .in-second>img {
         height: 130px;
     }
 
-    .in-second h1{
+    .in-second h1 {
         font-size: 40px;
     }
 
@@ -81,16 +81,49 @@
         padding: 10px 20px;
     }
 
-    .number2{
+    .number2 {
         top: -82%;
     }
 
 
-    #column1 , #column2,#column3,#column4,#column5,#column6,#column7,#column8,#column9,#column10,#column11,#column12{
+    #column1,#column2,
+    #column3,#column4,
+    #column5,#column6,
+    #column7,#column8,
+    #column9,#column10,
+    #column11,#column12 {
         width: 100%;
     }
 
-    .cols{
+    .cols {
         margin: 20px 15px;
+    }
+
+
+    #main-3{
+        height: auto;
+        padding: 40px 0px;
+    }
+
+    .heading-main3{
+        margin-bottom: 60px;
+    }
+
+    .heading-main3 h1 {
+        font-size: 41px;
+    }
+
+    .micro-cols{
+        height: auto;
+        margin: 20px 10px;
+    }
+
+    .micro-cols img{
+        height: 70px;
+        width: 18%;
+    }
+
+    .micro-cols img{
+        filter: grayscale(0);
     }
 }
